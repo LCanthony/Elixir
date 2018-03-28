@@ -1,0 +1,196 @@
+html, body{
+	height:100%; 
+}
+
+
+body{
+	margin:0;
+	font-family:Helvetica, sans-serif;
+	font-size:11pt;
+	background-color:#bdc6c1;
+	margin:0px; 
+    position:center top;
+    margin-top:-15px; 
+    background-repeat:no-repeat; 
+}
+
+
+
+
+#wrapper{
+	width:1024px;
+	height:3140px;
+	background-color:#696d74;
+    background-repeat:no-repeat;
+    /*border: 1px solid #000;*/
+    margin:auto; 
+	}
+
+
+#top{
+	width:1024px;
+	height:80px;
+	background-color:#a14823; 
+}
+
+#logo{
+	margin-top:25px; 
+	width:148px;
+	height:44px; 
+	position:relative;
+	margin-left:10px;
+}
+
+#loupe{
+	width:59px;
+	height:54px;
+	position:absolute;
+	margin-left:230px;
+    margin-top:15px;  
+
+}
+
+
+nav#main{
+	margin-left:400px;
+    position:absolute;
+    margin-top:-50px; 
+}
+
+
+nav#main ul li{
+	display:inline-block;
+    padding-left:20px; 
+	
+}
+
+
+
+nav#main ul li a{
+	text-decoration:none;
+	color:#fff;
+	text-transform:uppercase;
+	font-family:"CopperplateGothicBold"; 
+    font-weight: bold;
+    font-size:14px; 
+
+}
+
+
+#new{
+	width:1024px;
+	height:600px;
+ 	background-image:url(images/new.png); 
+    background-repeat:no-repeat; 
+    padding-bottom:20px;
+
+}
+
+#nt{
+	border:2px solid #fff;
+	width:280px;
+	height:85px;
+	color:#fff;
+	background-color:rgba(0,0,0,0.8); 
+    margin-left:372px; 
+    margin-top:230px; 
+    position:absolute; 
+    text-align:center;
+    padding-top:15px; 
+
+   
+}
+
+#prod{
+	width:1024px;
+	height:550px;
+	background-image:url(images/prod.png);
+    background-repeat:no-repeat;  
+ 	padding-bottom:20px;  
+}
+
+
+#produit ul li{
+    display:inline-block;
+	border:2px solid #fff;
+	width:180px;
+	height:49px;
+	color:#fff;
+	background-color:rgba(0,0,0,0.8);  
+    margin-top:235px; 
+    text-align:center;
+    padding-top:15px; 
+    margin-right:13px; 
+   
+}
+
+
+#produit ul li a{
+	text-decoration:none;
+	color:#fff;
+	font-size:24px; 
+	
+}
+
+
+#produit ul li:first-child{
+	margin-left:-32px; 
+}
+
+
+#centre{
+	width:1024px;
+	height:330px;
+	padding-bottom:20px; 
+}
+
+#etable{
+	width:512px;
+	height:330px;
+    background-image:url(images/etable.png); 
+    background-repeat:no-repeat; 
+    float:left;
+    
+
+}
+
+#hist{
+	width:512px;
+	height:330px;
+    background-image:url(images/hist.png); 
+    background-repeat:no-repeat; 
+    float:right;
+  
+}
+
+
+#recette{
+	width:1024px;
+	height:600px;
+	background-image:url(images/recettes.png);   
+    background-repeat:no-repeat;  
+ 	padding-bottom:20px;  
+}
+
+
+#pdv{
+	width:1024px;
+	height:600px;
+	background-image:url(images/pdv.png);   
+    background-repeat:no-repeat;  
+
+}
+
+#footer{
+	width:1024px;
+	height:300px;
+	background-color:#a14823; 
+}
+
+
+
+
+
+
+
+
